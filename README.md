@@ -42,7 +42,7 @@ Developing AI models that help classify medical images to support diagnostic wor
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
 📧 karthikrish2002@outlook.com  
 🔗 linkedin.com/in/kkrishn-tech  
