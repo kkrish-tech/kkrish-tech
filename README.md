@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Karthi!
+# 👋 Hello! My name is Karthi!
 
 🎓 M.Eng. Computer Science @ Virginia Tech  
 🤖 AI & Software Engineer | Machine Learning | Computer Vision | Backend Systems  
