@@ -7,15 +7,14 @@
 
 ## 🧭 About Me
 
-I am a Computer Science graduate student focused on building **AI-powered systems that solve real-world problems**.
+I'm focused on building **AI-powered systems that solve real-world problems**.
 
 I specialize in combining **machine learning + software engineering** to create applications in:
 - Computer vision (real-time detection systems)
 - AI-driven automation tools
 - Scalable backend systems for data and analytics
 
-🎓 B.S. Computer Science — George Mason University  
-💼 Former Software Engineering Intern — FedScale Inc  
+💼 Former Software Engineer — FedScale Inc  
 
 ---
 
