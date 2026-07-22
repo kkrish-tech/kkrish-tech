@@ -21,7 +21,7 @@ Mainly, I focus on:
 🛸 **Real-Time Drone Detection System**  
 Built a real-time tracking system for a camera gimbal using YOLO models, OpenCV, and a Hailo AI accelerator on a Raspberry Pi 5. Collaborated with Virginia Tech and the U.S. Secret Service.
 
-🧠 **AI Document Intelligence Tool** *(FedScale Inc)* 
+🧠 **Document Intelligence Tool** *(FedScale Inc)*  
 Built an automated document parsing tool using Azure OpenAI, OCR parsers, and Flask to handle complex multi-format files and speed up internal review.
 
 🏥 **Medical Image Classifier**  
