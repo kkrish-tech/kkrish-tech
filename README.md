@@ -1,62 +1,42 @@
-# 👋 Hello! I'm Karthi
+# 👋 Hi! I'm Karthi
 
-🎓 M.Eng. Computer Science @ Virginia Tech  
-🤖 AI & Software Engineer | Machine Learning | Computer Vision | Backend Systems  
+🎓 **M.Eng. in Computer Science** @ Virginia Tech  
+🤖 **AI & Software Engineer** | Computer Vision | LLMs & Document Intelligence | Edge Computing  
+💼 **Former Software Engineer Intern** @ FedScale Inc
 
 ---
 
 ## 🧭 About Me
 
-I'm focused on building **AI-powered systems that solve real-world problems**.
+I’m an engineer focused on building production-ready AI systems, full-stack LLM applications, and low-latency computer vision software. 
 
-I specialize in combining **machine learning + software engineering** to create applications in:
-- Computer vision (real-time detection systems)
-- AI-driven automation tools
-- Scalable backend systems for data and analytics
-
-💼 Former Software Engineer — FedScale Inc  
+I bridge the gap between machine learning research and real-world execution—whether that means deploying deep learning models to hardware-constrained edge devices or building asynchronous backend APIs to process high-volume enterprise data.
 
 ---
 
-## 🚀 What I’m working on
+## 🚀 Key Projects & Focus Areas
 
-🛸 **Real-time Drone Detection System**  
-Building an AI system that can detect and track aerial objects in real time for live monitoring use cases.
+🛸 **Real-Time Drone Detection & Tracking System**  
+Engineered an autonomous target tracking system in collaboration with **Virginia Tech and the U.S. Secret Service**. Integrated YOLO models with a Hailo-8 AI accelerator on a Raspberry Pi 5 to drive a 2-DOF camera gimbal in real time.
 
-🧠 **AI Language Reasoning Research**  
-Exploring how large AI models understand and reason about low-resource languages.
+🧠 **AI Document Intelligence Platform**  
+Built an asynchronous, end-to-end data processing platform using **Azure OpenAI, Flask, and custom OCR pipelines**, cutting manual document review cycles by over 70% during my time at FedScale.
 
-🏥 **Medical Image AI System**  
-Developing AI models that help classify medical images to support diagnostic workflows.
-
----
-
-## 🛠️ What I work with
-
-- Artificial Intelligence & Machine Learning
-- Computer Vision (real-time detection systems)
-- Python-based backend development
-- Cloud platforms (AWS, Azure)
-- APIs, automation, and data systems
+🏥 **Medical Image Diagnostic System**  
+Developing deep learning models to classify medical imaging assets, optimizing diagnostic support workflows using multi-label image classification techniques.
 
 ---
 
-## 📫 Contact Me
+## 🛠️ Tech Stack & Skills
 
-📧 karthikrish2002@outlook.com  
-🔗 linkedin.com/in/kkrishn-tech  
+- **Languages:** Python, C++, SQL, JavaScript, HTML/CSS
+- **AI / ML / CV:** PyTorch, OpenCV, YOLO, Azure OpenAI, Scikit-Learn, Tesseract OCR
+- **Backend & Web:** Flask, REST APIs, Microsoft Power Platform, Asynchronous Processing
+- **Hardware & Edge:** Raspberry Pi 5, Hailo-8 AI Accelerator, Embedded Vision
 
-<!--
-**kkrish-tech/kkrish-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Contact With Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 **Email:** [karthikrish2002@outlook.com](mailto:karthikrish2002@outlook.com)  
+🔗 **LinkedIn:** [linkedin.com/in/kkrishn-tech](https://linkedin.com/in/kkrishn-tech)
