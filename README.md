@@ -1,42 +1,44 @@
-# 👋 Hi! I'm Karthi
+# 👋 Hi! I'm Karthi!
 
 🎓 **M.Eng. in Computer Science** @ Virginia Tech  
-🤖 **AI & Software Engineer** | Computer Vision | LLMs & Document Intelligence | Edge Computing  
-💼 **Former Software Engineer Intern** @ FedScale Inc
+🤖 **AI & Software Engineer**  
 
 ---
 
 ## 🧭 About Me
 
-I’m an engineer focused on building production-ready AI systems, full-stack LLM applications, and low-latency computer vision software. 
+I build software at the intersection of machine learning, backend systems, and hardware. 
 
-I bridge the gap between machine learning research and real-world execution—whether that means deploying deep learning models to hardware-constrained edge devices or building asynchronous backend APIs to process high-volume enterprise data.
-
----
-
-## 🚀 Key Projects & Focus Areas
-
-🛸 **Real-Time Drone Detection & Tracking System**  
-Engineered an autonomous target tracking system in collaboration with **Virginia Tech and the U.S. Secret Service**. Integrated YOLO models with a Hailo-10 AI accelerator on a Raspberry Pi 5 to drive a 2-DOF camera gimbal in real time.
-
-🧠 **AI Document Intelligence Platform**  
-Built an asynchronous, end-to-end data processing platform using **Azure OpenAI, Flask, and custom OCR pipelines**, cutting manual document review cycles by over 70% during my time at FedScale.
-
-🏥 **Medical Image Diagnostic System**  
-Developing deep learning models to classify medical imaging assets, optimizing diagnostic support workflows using multi-label image classification techniques.
+Mainly, I focus on:
+- **Computer Vision:** Real-time object detection and tracking on edge devices
+- **LLM Applications:** Asynchronous document parsing and data extraction pipelines
+- **Backend Infrastructure:** APIs and software tools that keep models running fast
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 Key Projects & Experience
 
-- **Languages:** Python, C++, SQL, JavaScript, HTML/CSS
-- **AI / ML / CV:** PyTorch, OpenCV, YOLO, Azure OpenAI, Scikit-Learn, Tesseract OCR
-- **Backend & Web:** Flask, REST APIs, Microsoft Power Platform, Asynchronous Processing
-- **Hardware & Edge:** Raspberry Pi 5, Hailo-8 AI Accelerator, Embedded Vision
+🛸 **Real-Time Drone Detection System**  
+Built a real-time tracking system for a camera gimbal using YOLO models, OpenCV, and a Hailo AI accelerator on a Raspberry Pi 5. Collaborated with Virginia Tech and the U.S. Secret Service.
+
+🧠 **AI Document Intelligence Tool** *(FedScale Inc)* 
+Built an automated document parsing tool using Azure OpenAI, OCR parsers, and Flask to handle complex multi-format files and speed up internal review.
+
+🏥 **Medical Image Classifier**  
+Developed deep learning vision models in PyTorch to classify medical imaging assets for diagnostic workflows.
 
 ---
 
-## 📫 Contact With Me
+## 🛠️ Tech Stack
+
+- **Languages:** Python, C++, SQL, JavaScript
+- **AI / Vision:** PyTorch, OpenCV, YOLO, Azure OpenAI, Tesseract OCR
+- **Backend / Web:** Flask, REST APIs, Asynchronous Tasks
+- **Hardware:** Raspberry Pi, Hailo-8 AI Accelerator
+
+---
+
+## 📫 Contact
 
 📧 **Email:** [karthikrish2002@outlook.com](mailto:karthikrish2002@outlook.com)  
 🔗 **LinkedIn:** [linkedin.com/in/kkrishn-tech](https://linkedin.com/in/kkrishn-tech)
