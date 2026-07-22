@@ -17,7 +17,7 @@ I bridge the gap between machine learning research and real-world execution—wh
 ## 🚀 Key Projects & Focus Areas
 
 🛸 **Real-Time Drone Detection & Tracking System**  
-Engineered an autonomous target tracking system in collaboration with **Virginia Tech and the U.S. Secret Service**. Integrated YOLO models with a Hailo-8 AI accelerator on a Raspberry Pi 5 to drive a 2-DOF camera gimbal in real time.
+Engineered an autonomous target tracking system in collaboration with **Virginia Tech and the U.S. Secret Service**. Integrated YOLO models with a Hailo-10 AI accelerator on a Raspberry Pi 5 to drive a 2-DOF camera gimbal in real time.
 
 🧠 **AI Document Intelligence Platform**  
 Built an asynchronous, end-to-end data processing platform using **Azure OpenAI, Flask, and custom OCR pipelines**, cutting manual document review cycles by over 70% during my time at FedScale.
