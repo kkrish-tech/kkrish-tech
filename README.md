@@ -34,7 +34,7 @@ Developed deep learning vision models in PyTorch to classify medical imaging ass
 - **Languages:** Python, C++, SQL, JavaScript
 - **AI / Vision:** PyTorch, OpenCV, YOLO, Azure OpenAI, Tesseract OCR
 - **Backend / Web:** Flask, REST APIs, Asynchronous Tasks
-- **Hardware:** Raspberry Pi, Hailo-8 AI Accelerator
+- **Hardware:** Raspberry Pi, Hailo-10 AI Accelerator
 
 ---
 
