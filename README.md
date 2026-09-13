@@ -37,8 +37,7 @@ I'm a full-stack developer who likes building apps that make everyday life easie
 
 ### 🚀 Key Projects & Experience
 
-#### 🛸 Real-Time Drone Detection & Tracking System
-> **Context:** Autonomous Aerial Tracking System *(U.S. Secret Service & Virginia Tech)*  
+#### 🛸 Real-Time Drone Detection & Tracking System 
 > **Tech:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" alt="Python" valign="middle"/>&nbsp;Python &nbsp;•&nbsp; 🎯&nbsp;YOLOv11 &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="16" height="16" alt="OpenCV" valign="middle"/>&nbsp;OpenCV &nbsp;•&nbsp; 🧠&nbsp;HailoRT &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="16" height="16" alt="Raspberry Pi" valign="middle"/>&nbsp;Raspberry&nbsp;Pi&nbsp;AI&nbsp;Hat &nbsp;•&nbsp; 📷&nbsp;Basler&nbsp;Ace&nbsp;2 &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="16" height="16" alt="WebSockets" valign="middle"/>&nbsp;WebSockets &nbsp;•&nbsp; 🔌&nbsp;PoE++
 
 * **Performance:** Boosted detection throughput from **2 FPS at 720p ➔ 30 FPS at 1080p** via edge hardware offloading.
@@ -48,7 +47,6 @@ I'm a full-stack developer who likes building apps that make everyday life easie
 ---
 
 #### 🧠 Production AI Document Intelligence Tool
-> **Context:** Internal Enterprise Tool *(FedScale Inc)*  
 > **Tech:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="16" height="16" alt="Flask" valign="middle"/>&nbsp;Flask &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="16" height="16" alt="Azure OpenAI" valign="middle"/>&nbsp;Azure&nbsp;OpenAI &nbsp;•&nbsp; 👁️&nbsp;Tesseract&nbsp;OCR &nbsp;•&nbsp; 📄&nbsp;Mammoth.js &nbsp;•&nbsp; 📑&nbsp;PDF.js &nbsp;•&nbsp; 📊&nbsp;SheetJS &nbsp;•&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="16" height="16" alt="Power BI" valign="middle"/>&nbsp;Power&nbsp;BI &nbsp;•&nbsp; 📱&nbsp;PowerApps
 
 * **Impact:** Reduced internal document review time by **80%** across 1,000+ multi-format files.
@@ -58,7 +56,6 @@ I'm a full-stack developer who likes building apps that make everyday life easie
 ---
 
 #### 🏥 Semi-Supervised Medical Radiograph Classifier
-> **Context:** Computer Vision Application *(Virginia Tech)*  
 > **Tech:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="16" height="16" alt="PyTorch" valign="middle"/>&nbsp;PyTorch &nbsp;•&nbsp; 👁️&nbsp;Torchvision &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="16" height="16" alt="Scikit-Learn" valign="middle"/>&nbsp;Scikit-Learn &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="16" height="16" alt="OpenCV" valign="middle"/>&nbsp;OpenCV
 
 * **Results:** Achieved **62.5% diagnostic accuracy** across 21,165 images, coming within **3%** of fully supervised baselines.
@@ -66,8 +63,7 @@ I'm a full-stack developer who likes building apps that make everyday life easie
 
 ---
 
-#### 🛒 Multi-Tenant E-Commerce Platform
-> **Context:** Database Management System *(Virginia Tech)*  
+#### 🛒 Multi-Tenant E-Commerce Platform 
 > **Tech:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="16" height="16" alt="Flask" valign="middle"/>&nbsp;Flask &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16" height="16" alt="MySQL" valign="middle"/>&nbsp;MySQL &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" height="16" alt="SQL" valign="middle"/>&nbsp;SQL &nbsp;•&nbsp; 🌐&nbsp;REST&nbsp;APIs &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16" height="16" alt="HTML5" valign="middle"/>&nbsp;HTML5 &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="16" height="16" alt="CSS3" valign="middle"/>&nbsp;CSS3 &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16" alt="JavaScript" valign="middle"/>&nbsp;JS
 
 * **Security & Auth:** Implemented Role-Based Access Control (**RBAC**) across Admin, Vendor, and Customer personas.
@@ -77,5 +73,5 @@ I'm a full-stack developer who likes building apps that make everyday life easie
 
 ### 📜 Certifications
 
-* **Microsoft Certified:** Azure AI Fundamentals
-* **Google:** IT Automation with Python
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="18" height="18" alt="Azure" valign="middle"/>&nbsp;**Microsoft Certified:** Azure AI Fundamentals
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18" height="18" alt="Google" valign="middle"/>&nbsp;**Google:** IT Automation with Python
