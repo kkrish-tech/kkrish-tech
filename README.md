@@ -46,7 +46,7 @@ I'm a full-stack developer who likes building apps that make everyday life easie
 
 ---
 
-#### 🧠 Production AI Document Intelligence Tool
+#### 🧠 AI Document Intelligence Tool
 > **Tech:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="16" height="16" alt="Flask" valign="middle"/>&nbsp;Flask &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="16" height="16" alt="Azure OpenAI" valign="middle"/>&nbsp;Azure&nbsp;OpenAI &nbsp;•&nbsp; 👁️&nbsp;Tesseract&nbsp;OCR &nbsp;•&nbsp; 📄&nbsp;Mammoth.js &nbsp;•&nbsp; 📑&nbsp;PDF.js &nbsp;•&nbsp; 📊&nbsp;SheetJS &nbsp;•&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="16" height="16" alt="Power BI" valign="middle"/>&nbsp;Power&nbsp;BI &nbsp;•&nbsp; 📱&nbsp;PowerApps
 
 * **Impact:** Reduced internal document review time by **80%** across 1,000+ multi-format files.
@@ -63,7 +63,7 @@ I'm a full-stack developer who likes building apps that make everyday life easie
 
 ---
 
-#### 🛒 Multi-Tenant E-Commerce Platform 
+#### 🛒 Multi-Tenant E-Commerce Database Platform 
 > **Tech:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="16" height="16" alt="Flask" valign="middle"/>&nbsp;Flask &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16" height="16" alt="MySQL" valign="middle"/>&nbsp;MySQL &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" height="16" alt="SQL" valign="middle"/>&nbsp;SQL &nbsp;•&nbsp; 🌐&nbsp;REST&nbsp;APIs &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16" height="16" alt="HTML5" valign="middle"/>&nbsp;HTML5 &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="16" height="16" alt="CSS3" valign="middle"/>&nbsp;CSS3 &nbsp;•&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16" alt="JavaScript" valign="middle"/>&nbsp;JS
 
 * **Security & Auth:** Implemented Role-Based Access Control (**RBAC**) across Admin, Vendor, and Customer personas.
