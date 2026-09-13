@@ -6,6 +6,11 @@
 
 ---
 
+### 💡 About Me
+I'm a full-stack developer who likes building apps that make everyday life easier—whether that's automating repetitive tasks or creating useful tools for small businesses. I build all my projects from scratch, handling everything from the initial design down to fixing every bug that pops up. I just really enjoy solving real problems with code and am looking for opportunities to jump in and contribute.
+
+---
+
 ### 📌 Core Specializations
 
 * **Edge Computer Vision:** Multi-node camera pipelines, NPU acceleration, & real-time tracking
