@@ -73,5 +73,6 @@ I'm a full-stack developer who likes building apps that make everyday life easie
 
 ### 📜 Certifications
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="18" height="18" alt="Azure" valign="middle"/>&nbsp;**Microsoft Certified:** Azure AI Fundamentals
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="18" height="18" alt="Azure" valign="middle"/>&nbsp;**Microsoft Certified:** Azure AI Fundamentals  
+<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18" height="18" alt="Google" valign="middle"/>&nbsp;**Google:** IT Automation with Python
