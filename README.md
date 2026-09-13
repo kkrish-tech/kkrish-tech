@@ -1,63 +1,71 @@
-# 👋 Hi, I'm Karthikeyan Krishnan
+# 👨‍💻 Karthikeyan Krishnan
+**AI & Software Engineer** | Full-Stack Systems, Edge Computer Vision & Cloud ML  
+🎓 **M.Eng. in Computer Science** — Virginia Tech  
 
-🎓 **M.Eng. in Computer Science** @ Virginia Tech  
-🤖 **AI & Software Engineer** | Full-Stack Systems, Edge Computer Vision & Cloud ML  
-
----
-
-## 🧭 Overview
-
-Software engineer specializing in high-throughput computer vision on edge hardware, production LLM/OCR document intelligence pipelines, and full-stack backend infrastructure. 
-
-- **Edge Computer Vision:** Multi-node video processing pipelines, object tracking, and NPU/AI Hat hardware acceleration.
-- **LLM & Document Intelligence:** Production-grade multi-format parsing, prompt engineering, and microservices bounded to zero-hallucination contextual retrieval.
-- **Backend Infrastructure:** Dynamic RESTful APIs, relational schema design, role-based access control (RBAC), and cloud/DevOps deployments.
+[LinkedIn](https://linkedin.com/in/kkrishn-tech) • [Email](mailto:karthikrish2002@outlook.com)
 
 ---
 
-## 🛠️ Technical Skills
+### 📌 Core Specializations
 
-- **Languages:** Python, C++, Java, JavaScript, TypeScript, C#, SQL, Bash
-- **AI / ML & Computer Vision:** PyTorch, TensorFlow, OpenCV, YOLO (v11), HailoRT, Scikit-Learn, Azure OpenAI, Tesseract OCR
-- **Backend & Cloud:** Flask, Node.js, Spring Boot, RESTful APIs, Docker, AWS, Azure AI, PostgreSQL, MySQL, MongoDB
-- **Hardware & Edge:** Raspberry Pi AI Hat, Basler Ace 2 Cameras, PoE++ Hardware, WebSockets, 2-DOF Gimbals
-
----
-
-## 🚀 Featured Projects & Experience
-
-### 🛸 Real-Time Drone Detection & Tracking System
-*Collaborative Project with Virginia Tech & U.S. Secret Service*
-- Engineered a multi-node edge vision system using **Basler Ace 2 cameras**, **PoE++ hardware**, and **WebSockets** to capture UAV speed, position, and altitude.
-- Accelerated real-time detection throughput from **2 FPS at 720p to 30 FPS at 1080p** by offloading inference to a **Raspberry Pi AI Hat** with a custom **YOLOv11** model (**80%+ accuracy**).
-- Architected a multithreaded circular buffer with timestamped frame logging to eliminate frame drops and maintain target tracking during processor bottlenecks.
-
-### 🧠 Production AI Document Intelligence Application
-*FedScale Inc*
-- Built a full-stack document extraction microservice using **Flask**, **Azure OpenAI**, and client-side processing libraries (**Mammoth.js**, **PDF.js**, **SheetJS**, **Tesseract OCR**) to parse multi-format files into structured JSON.
-- Engineered strict system prompt guardrails to guarantee zero-hallucination summaries strictly bounded to user source documents, accelerating internal document review speed by **80%**.
-- Designed **Power BI** dashboards tracking processing throughput and cloud service expenses, and implemented custom **PowerApps** / **Power Automate** workflow integrations.
-
-### 🏥 Semi-Supervised Medical Radiograph Classifier
-*Virginia Tech*
-- Built a semi-supervised computer vision pipeline in **PyTorch** using pseudo-labeling on 21,165 chest radiograph images across 4 diagnostic categories.
-- Reached **62.5% diagnostic accuracy** using a model trained on only 140 labeled and 140 unlabeled images, performing within **3%** of a fully supervised baseline while cutting required human-labeled training data in half.
-
-### 🛒 Multi-Tenant E-Commerce Database Platform
-*Virginia Tech*
-- Developed a full-stack web platform utilizing **Flask** and **MySQL** with Role-Based Access Control (**RBAC**) across Admin, Vendor, and Customer personas.
-- Built live administrative dashboards using dynamic SQL aggregate queries to compute inventory metrics, sales share, dynamic stock thresholds, and user activity moderation.
+* **Edge Computer Vision:** Multi-node camera pipelines, NPU acceleration, & real-time tracking
+* **LLM & Document Intelligence:** Multi-format parsing pipelines, OCR, & zero-hallucination prompt guardrails
+* **Backend Systems:** Production RESTful APIs, relational schema design, & role-based access control (RBAC)
 
 ---
 
-## 📜 Certifications
+### 🛠️ Technical Stack
 
-- **Microsoft Certified:** Azure AI Fundamentals
-- **Google:** IT Automation with Python
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python • C++ • Java • SQL • JavaScript • TypeScript • C# • Bash |
+| **AI / ML & Vision** | PyTorch • OpenCV • YOLOv11 • HailoRT • Azure OpenAI • Scikit-Learn • Tesseract OCR |
+| **Backend & Cloud** | Flask • Spring Boot • Node.js • REST APIs • Docker • AWS • Azure • PostgreSQL • MySQL • MongoDB |
+| **Hardware & Edge** | Raspberry Pi AI Hat • Basler Ace 2 Cameras • PoE++ Networking • WebSockets • 2-DOF Gimbals |
 
 ---
 
-## 📫 Contact & Links
+### 🚀 Key Projects & Experience
 
-- 📧 **Email:** [karthikrish2002@outlook.com](mailto:karthikrish2002@outlook.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/kkrishn-tech](https://linkedin.com/in/kkrishn-tech)
+#### 🛸 Real-Time Drone Detection & Tracking System
+> **Context:** Autonomous Aerial Tracking System *(U.S. Secret Service & Virginia Tech)*  
+> **Tech:** Python, YOLOv11, OpenCV, HailoRT, Raspberry Pi AI Hat, Basler Ace 2, WebSockets, PoE++
+
+* **Performance:** Boosted detection throughput from **2 FPS at 720p ➔ 30 FPS at 1080p** via edge hardware offloading.
+* **Accuracy:** Deployed a custom YOLOv11 model achieving **80%+ detection accuracy**.
+* **Architecture:** Engineered a multithreaded circular buffer with timestamped frame logging to eliminate frame drops during processing peaks.
+
+---
+
+#### 🧠 Production AI Document Intelligence Tool
+> **Context:** Internal Enterprise Tool *(FedScale Inc)*  
+> **Tech:** Flask, Azure OpenAI, Tesseract OCR, Mammoth.js, PDF.js, SheetJS, Power BI, PowerApps
+
+* **Impact:** Reduced internal document review time by **80%** across 1,000+ multi-format files.
+* **Pipeline:** Built an end-to-end extraction engine parsing Word, PDF, Excel, and images into unified JSON payloads.
+* **Reliability:** Applied strict prompt engineering guardrails to guarantee 100% grounded, zero-hallucination summaries.
+
+---
+
+#### 🏥 Semi-Supervised Medical Radiograph Classifier
+> **Context:** Computer Vision Application *(Virginia Tech)*  
+> **Tech:** PyTorch, Torchvision, Scikit-Learn, OpenCV
+
+* **Results:** Achieved **62.5% diagnostic accuracy** across 21,165 images, coming within **3%** of fully supervised baselines.
+* **Data Efficiency:** Reduced human-labeled training data requirements by **50%** using pseudo-labeling techniques.
+
+---
+
+#### 🛒 Multi-Tenant E-Commerce Platform
+> **Context:** Database Management System *(Virginia Tech)*  
+> **Tech:** Flask, MySQL, SQL, REST APIs, HTML/CSS/JS
+
+* **Security & Auth:** Implemented Role-Based Access Control (**RBAC**) across Admin, Vendor, and Customer personas.
+* **Analytics:** Designed real-time vendor and store analytics dashboards using dynamic SQL aggregate queries.
+
+---
+
+### 📜 Certifications
+
+* **Microsoft Certified:** Azure AI Fundamentals
+* **Google:** IT Automation with Python
